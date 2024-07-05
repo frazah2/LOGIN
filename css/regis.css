@@ -1,0 +1,29 @@
+
+
+body{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/010/945/926/non_2x/green-background-simple-flat-full-of-dimensional-lines-free-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.top{
+    background-color: rgb(37, 82, 26);
+    width: 40%;
+    height: 500px;
+    margin-top: 60px ;
+    border-radius: 2%;
+}
+.reg{
+    color: white;
+}
+.form-control{
+    width: 80%;
+    margin-left: 10%;
+}
+.btn{
+    margin-left: 20px;
+}
+.but{
+    display: flex;
+    justify-content: center;
+}
+
